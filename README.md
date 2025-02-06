@@ -1,8 +1,12 @@
-<h1> Hi, I am Matthew！ Welcome to my Github ! </h1>
+<h1> Hi！ Welcome to my Github <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="50"/> ! </h1> 
 
-![GitHub Logo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZteXUxbjJ0cWdjd2Z4am5zdDZvMXlydGx0aHRxdjI3aXU5dnlyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpVKvAabWt3G5csMkT/giphy.gif)
+## Bit <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aboutdotme.svg" width="40" height="50"/>
 
-## Studying in progress
+I'm **Matthew**! A student studying **Computer Science** in **Hong Kong PolyU**
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZteXUxbjJ0cWdjd2Z4am5zdDZvMXlydGx0aHRxdjI3aXU5dnlyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpVKvAabWt3G5csMkT/giphy.gif" width="300"/>
+
+## Studying in Progress
 ### Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,21 +28,3 @@
 ### Forum
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
-
-
-
-<!--
-**mat0123p/mat0123p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
