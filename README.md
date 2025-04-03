@@ -25,6 +25,9 @@ I'm **Matthew**! A student studying **Computer Science** in **Hong Kong PolyU**
 ### AI Tools
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-ffffff?style=for-the-badge&color=929191)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-ffffff?style=for-the-badge&color=fcf9f5)
+![n8n](https://img.shields.io/badge/n8n-ffffff?style=for-the-badge&color=e3496f)
 
 ### Forum
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
